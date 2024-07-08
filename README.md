@@ -197,9 +197,11 @@ case "razorpay":
 
 Step 4. Add enviroment variables in the client
 
-  NEXT_PUBLIC_RAZORPAY_KEY:<your razorpay key>
+ ```
+ NEXT_PUBLIC_RAZORPAY_KEY:<your razorpay key>
   NEXT_PUBLIC_SHOP_NAME:<your razorpay shop name>
   NEXT_PUBLIC_SHOP_DESCRIPTION: <your razorpayshop description>
+```
 
 ## Contributing
 
